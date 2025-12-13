@@ -39,6 +39,18 @@ const resumeData = {
   ],
   experience: [
     {
+      role: "MAGANG WEB DEVELOPMENT",
+      period: "2023 - 2024",
+      company: "CV MARIOLO NETWORK",
+      tasks: [
+        "Membantu pengembangan website dan landing page untuk kebutuhan instansi, termasuk Perkimtan Sulteng.",
+        "Mengembangkan sistem absensi dosen berbasis fingerprint yang terintegrasi dengan database.",
+        "Melakukan pengolahan dan analisis data untuk kebutuhan dokumentasi, laporan internal, serta pengembangan sistem.",
+        "Berkoordinasi dengan tim dalam merumuskan kebutuhan klien dan menyelesaikan pekerjaan sesuai target.",
+        "Membuat dokumentasi teknis yang jelas dan mudah dipahami untuk memudahkan proses implementasi sistem.",
+      ],
+    },
+    {
       role: "FREELANCE WEB DEVELOPER",
       period: "2024 - Present",
       company: "Proyek Klien",
