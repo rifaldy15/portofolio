@@ -32,7 +32,7 @@ const projects = [
     title: "SOIL MONITOR v1.0 REAL-TIME DATA",
     description:
       "Website IoT ini adalah dashboard real-time untuk memantau pH dan kelembapan tanah yang terhubung dengan ESP32. Data sensor ditampilkan secara langsung dan juga dalam bentuk grafik histori menggunakan Chart.js. Pengguna dapat mengatur setpoint pH dan kelembapan melalui menu pengaturan.",
-    image: "/images/ph tanah.jpg",
+    image: "/ph tanah.jpg",
     tags: ["Html", "Javascript", "Php", "Chart.js", "Css", "MySql"],
     link: "https://soil-monitoring-iot-2e9ca.web.app/",
   },
