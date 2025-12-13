@@ -59,7 +59,7 @@ export default function ProjectsSection() {
               viewport={{ once: true }}
               transition={{ delay: index * 0.2 }}
               whileHover={{ y: -10 }}
-              className="group relative bg-gray-900/50 rounded-xl overflow-hidden backdrop-blur-sm border border-gray-800 hover:border-blue-500/50 transition-colors duration-300">
+              className="group relative bg-gray-900/50 rounded-xl overflow-hidden backdrop-blur-sm border border-gray-800 hover:border-blue-500/50 transition-all duration-300 shadow-lg hover:shadow-blue-500/20">
               <div className="aspect-video relative overflow-hidden">
                 <Image
                   src={project.image}
