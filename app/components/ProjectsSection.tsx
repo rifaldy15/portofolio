@@ -11,7 +11,7 @@ const projects = [
     image: "/tk.jpg",
     tags: ["Html", "Javascript", "Php", "Chart.js", "Css"],
     link: "https://tkceria13.aicenter.my.id/",
-    github: "", // Add actual link if available or leave empty to default to repo
+    github: "https://github.com/rifaldy15/Sistem-Pendaftaran-Tk.git",
   },
   {
     title: "IoT Hydroponics Monitoring System",
@@ -20,7 +20,8 @@ const projects = [
     image: "/iot.jpg",
     tags: ["HTML", "TailwindCSS", "JavaScript", "Firebase"],
     link: "https://hydropro-9ca55.web.app",
-    github: "",
+    github:
+      "https://github.com/rifaldy15/IoT-Hydroponics-Monitoring-System.git",
   },
   {
     title: 'E-commerce "Anti Nyeker ID"',
@@ -29,7 +30,34 @@ const projects = [
     image: "/eco.jpg",
     tags: ["Html", "Javascript", "Php", "Chart.js", "Css", "MySql"],
     //link: 'http://localhost/anti-nyeker-store/',
-    github: "",
+    github: "https://github.com/rifaldy15/Ecommerce-Anti-Nyeker-ID.git",
+  },
+  {
+    title: 'SOIL MONITOR v1.0 REAL-TIME DATA"',
+    description:
+      "Website IoT ini adalah dashboard real-time untuk memantau pH dan kelembapan tanah yang terhubung dengan ESP32. Data sensor ditampilkan secara langsung dan juga dalam bentuk grafik histori menggunakan Chart.js. Pengguna dapat mengatur setpoint pH dan kelembapan melalui menu pengaturan.",
+    image: "/ph tanah.jpg",
+    tags: ["Html", "Javascript", "Php", "Chart.js", "Css", "MySql"],
+    link: "https://soil-monitoring-iot-2e9ca.web.app/",
+    github: "#",
+  },
+  {
+    title: 'SISTEM WMS INVENTORY"',
+    description:
+      "Sistem ini adalah Sistem Manajemen Inventaris (Inventory Management System) atau sering disebut WMS (Warehouse Management System). Sistem ini dirancang untuk mengelola stok barang dan operasional gudang.",
+    image: "/WMS.jpg",
+    tags: [
+      "Html",
+      "Javascript",
+      "Php",
+      "Chart.js",
+      "Css",
+      "CodeIgniter 3",
+      "AdminLTE",
+      "MySql",
+    ],
+    link: "https://soil-monitoring-iot-2e9ca.web.app/",
+    github: "https://github.com/rifaldy15/Sistem-Inventory.git",
   },
 ];
 
