@@ -39,7 +39,7 @@ const projects = [
     image: "/ph tanah.jpg",
     tags: ["Html", "Javascript", "Php", "Chart.js", "Css", "MySql"],
     link: "https://soil-monitoring-iot-2e9ca.web.app/",
-    github: "#",
+    github: "https://github.com/rifaldy15/SYSTEM-SOIL-MONITOR-V.01.git",
   },
   {
     title: 'SISTEM WMS INVENTORY"',
@@ -56,8 +56,27 @@ const projects = [
       "AdminLTE",
       "MySql",
     ],
-    link: "https://soil-monitoring-iot-2e9ca.web.app/",
+    link: "#",
     github: "https://github.com/rifaldy15/Sistem-Inventory.git",
+  },
+  {
+    title: 'SISTEM BANK SAMPAH"',
+    description:
+      "Sistem Bank Sampah Lancang Kuning adalah aplikasi web berbasis Laravel 11 untuk mengelola bank sampah secara digital. Sistem ini memungkinkan warga menyetorkan sampah dan mendapatkan poin yang dapat ditukarkan dengan produk di marketplace.",
+    image: "/bank.jpg",
+    tags: [
+      "Html",
+      "Javascript",
+      "Php",
+      "Chart.js",
+      "Css",
+      "Laravel",
+      "Tailwind CSS 4",
+      "Alpine.js",
+      "MySql",
+    ],
+    link: "#",
+    github: "https://github.com/rifaldy15/Sistem-Bank-Sampah-.git",
   },
 ];
 
