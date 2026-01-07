@@ -9,7 +9,6 @@ const skills = [
   { skill: "CSS/Sass", level: 95 },
   { skill: "JavaScript", level: 88 },
   { skill: "Laravel", level: 80 },
-  { skill: "Next.js", level: 83 },
   { skill: "CodeIgniter 3", level: 83 },
   { skill: "Responsive Design", level: 95 },
   { skill: "MySql", level: 90 },
