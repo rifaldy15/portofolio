@@ -78,6 +78,26 @@ const projects = [
     link: "#",
     github: "https://github.com/rifaldy15/Sistem-Bank-Sampah-.git",
   },
+  {
+    title: 'Sistem Perpustakaan Digital (Digital Library Management System)"',
+    description:
+      "Sistem Perpustakaan Digital ini adalah aplikasi manajemen perpustakaan modern berbasis web yang dibangun menggunakan framework Laravel 11 yang handal dan aman. Sistem ini dirancang untuk mendigitalisasi seluruh operasional perpustakaan, mulai dari manajemen katalog buku dan keanggotaan, hingga sirkulasi peminjaman dan pengembalian yang cerdas dengan perhitungan denda otomatis. Keamanan menjadi prioritas utama dengan integrasi Login Google dan Verifikasi Email, memastikan hanya pengguna valid yang dapat mengakses layanan. Selain itu, aplikasi ini dilengkapi dashboard interaktif yang real-time, fitur buku tamu digital, dan laporan statistik yang komprehensif, semuanya dibalut dalam antarmuka yang bersih dan responsif untuk memberikan pengalaman pengguna yang efisien dan profesional.",
+    image: "/bank.jpg",
+    tags: [
+      "Php",
+      "JavaScript",
+      "Chart.js",
+      "Css",
+      "Laravel",
+      "Tailwind CSS 4",
+      "Tailadmin",
+      "Alpine.js",
+      "MySql",
+    ],
+    link: "#",
+    github:
+      "https://github.com/rifaldy15/SISTEM-PEMINJAMAN-BUKU-PERPUSTAKAAN.git",
+  },
 ];
 
 export default function ProjectsSection() {
