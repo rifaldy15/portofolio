@@ -12,7 +12,7 @@ const heroSkills = [
   "Next.js",
   "Javascript",
   "Tailwind CSS",
-  "C++S",
+  "C++",
   "MySql",
 ];
 
