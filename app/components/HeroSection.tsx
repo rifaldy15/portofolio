@@ -6,12 +6,14 @@ import { motion } from "framer-motion";
 const heroSkills = [
   "HTML",
   "PHP",
+  "Laravel",
+  "CodeIgniter 3",
   "React",
   "Next.js",
   "Javascript",
   "Tailwind CSS",
-  "Laravel",
   "C++S",
+  "MySql",
 ];
 
 export default function HeroSection() {
