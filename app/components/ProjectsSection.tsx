@@ -33,7 +33,7 @@ const projects = [
     github: "https://github.com/rifaldy15/Ecommerce-Anti-Nyeker-ID.git",
   },
   {
-    title: 'SOIL MONITOR v1.0 REAL-TIME DATA"',
+    title: "SOIL MONITOR v1.0 REAL-TIME DATA",
     description:
       "Website IoT ini adalah dashboard real-time untuk memantau pH dan kelembapan tanah yang terhubung dengan ESP32. Data sensor ditampilkan secara langsung dan juga dalam bentuk grafik histori menggunakan Chart.js. Pengguna dapat mengatur setpoint pH dan kelembapan melalui menu pengaturan.",
     image: "/ph tanah.jpg",
@@ -42,7 +42,7 @@ const projects = [
     github: "https://github.com/rifaldy15/SYSTEM-SOIL-MONITOR-V.01.git",
   },
   {
-    title: 'SISTEM WMS INVENTORY"',
+    title: "SISTEM WMS INVENTORY",
     description:
       "Sistem ini adalah Sistem Manajemen Inventaris (Inventory Management System) atau sering disebut WMS (Warehouse Management System). Sistem ini dirancang untuk mengelola stok barang dan operasional gudang.",
     image: "/WMS.jpg",
@@ -60,7 +60,7 @@ const projects = [
     github: "https://github.com/rifaldy15/Sistem-Inventory.git",
   },
   {
-    title: 'SISTEM BANK SAMPAH"',
+    title: "SISTEM BANK SAMPAH",
     description:
       "Sistem Bank Sampah Lancang Kuning adalah aplikasi web berbasis Laravel 11 untuk mengelola bank sampah secara digital. Sistem ini memungkinkan warga menyetorkan sampah dan mendapatkan poin yang dapat ditukarkan dengan produk di marketplace.",
     image: "/bank.jpg",
@@ -79,10 +79,10 @@ const projects = [
     github: "https://github.com/rifaldy15/Sistem-Bank-Sampah-.git",
   },
   {
-    title: 'Sistem Perpustakaan Digital (Digital Library Management System)"',
+    title: "Sistem Perpustakaan Digital (Digital Library Management System)",
     description:
       "Sistem Perpustakaan Digital ini adalah aplikasi manajemen perpustakaan modern berbasis web yang dibangun menggunakan framework Laravel 11 yang handal dan aman. Sistem ini dirancang untuk mendigitalisasi seluruh operasional perpustakaan, mulai dari manajemen katalog buku dan keanggotaan, hingga sirkulasi peminjaman dan pengembalian yang cerdas dengan perhitungan denda otomatis. Aplikasi ini dilengkapi dashboard interaktif yang real-time, fitur buku tamu digital, dan laporan statistik yang komprehensif, semuanya dibalut dalam antarmuka yang bersih dan responsif untuk memberikan pengalaman pengguna yang efisien dan profesional.",
-    image: "/bank.jpg",
+    image: "/perpus.png",
     tags: [
       "Php",
       "JavaScript",
